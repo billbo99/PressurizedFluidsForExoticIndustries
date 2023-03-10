@@ -1,0 +1,6 @@
+-- data:extend(
+--     {
+--         -- startup
+--         { name = "PFFEI_arcfurnace_height", type = "int-setting", default_value = 5, setting_type = "startup", order = "0100" },
+--     }
+-- )
